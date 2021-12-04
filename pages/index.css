@@ -1,0 +1,22 @@
+@import url(../vendor/normalize.css);
+
+/* шапка*/
+@import url(../blocks/header/header.css);
+
+/* блок lead*/
+@import url(../blocks/lead/lead.css);
+
+/* блок intro*/
+@import url(../blocks/intro/intro.css);
+
+/* блок photo-grid*/
+@import url(../blocks/photo-grid/photo-grid.css);
+
+/* блок places*/
+@import url(../blocks/places/places.css);
+
+/* блок cover*/
+@import url(../blocks/cover/cover.css);
+
+/* блок footer*/
+@import url(../blocks/footer/footer.css);
