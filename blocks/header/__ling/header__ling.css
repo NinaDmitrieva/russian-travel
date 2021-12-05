@@ -1,0 +1,4 @@
+.header__ling {
+display: flex;
+justify-content: space-between;
+}
