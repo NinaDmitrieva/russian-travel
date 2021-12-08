@@ -6,7 +6,7 @@
     box-sizing: border-box;
     color: #fff;
     text-rendering: optimizeLegibility;
-    overflow: hidden;
+    /*overflow: hidden;*/
    
 }
 
