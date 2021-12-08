@@ -13,14 +13,14 @@ align-self: flex-start;
         margin-left: 48px;
     }
     }
-    /*@media screen and (max-width: 850px){
+    @media screen and (max-width: 850px){
         .lead__caption {
             margin-left: 24px;
         }
-    }*/
+    }
     @media screen and (max-width: 550px){
         .lead__caption {
-        margin-left: 24px;
+        margin-left: 16px;
         min-width: 320px;
         }
     }

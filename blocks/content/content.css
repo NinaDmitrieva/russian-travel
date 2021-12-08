@@ -1,5 +1,4 @@
 .content {
-    max-width: 100%;
     display: grid;
     grid-row-gap: 92px;
 }
