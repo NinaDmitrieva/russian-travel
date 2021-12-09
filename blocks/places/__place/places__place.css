@@ -1,0 +1,32 @@
+.places__place {
+    max-width: 100%;
+    margin-right: 40px;
+}
+.places__place:nth-child(2) {
+    padding: 106px 0 86px 0;
+    margin-right: 0;
+}
+@media screen and (max-width: 1100px){
+    .places__place {
+        max-width: 460px;
+        margin-right: 32px;
+        }
+        .places__place:nth-child(2) {
+            max-width: 456px;
+            padding-bottom: 0;
+            margin-right: 0;
+        }
+    }
+@media screen and (max-width: 850px){
+    .lead {
+        max-width: 768px;
+       
+        }
+    }
+@media screen and (max-width: 550px){
+    .lead {
+        min-width: 320px;
+       
+        }
+    }
+    

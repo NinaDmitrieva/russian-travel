@@ -1,0 +1,6 @@
+.places__website {
+    max-width: 456px;
+    margin-bottom: 48px;
+    display: flex;
+    flex-direction: column;
+}
