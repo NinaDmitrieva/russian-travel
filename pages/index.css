@@ -33,14 +33,15 @@
 
 /* блок places*/
 @import url(../blocks/places/places.css);
-@import url(../blocks/places/__block/places__block.css);
-@import url(../blocks/places/__image/places__image.css);
-@import url(../blocks/places/__paragraph/places__paragraph.css);
-@import url(../blocks/places/__place/places__place.css);
-@import url(../blocks/places/__title/places__title.css);
-@import url(../blocks/places/__website/places__website.css);
-@import url(../blocks/places/__website/_link/places__website_link__link.css);
-@import url(../blocks/places/__website/_url/places__website_url__url-heading.css);
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__website/place__website.css);
+@import url(../blocks/place/__website/_link/place__website_link__link.css);
+@import url(../blocks/place/__website/_url/place__website_url__url-heading.css);
+
+
 
 
 
