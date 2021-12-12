@@ -1,5 +1,5 @@
 .photo-grid {
-    max-width: 1184px;
+    max-width: 100%;
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -23,7 +23,7 @@
     }
 @media (max-width: 550px){
     .photo-grid {
-        max-width: 288px;
+        min-width: calc(100% - 32px);
         grid-template-columns: repeat(1, 1fr);
         gap: 12px;
         
