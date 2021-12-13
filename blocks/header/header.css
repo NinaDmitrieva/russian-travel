@@ -1,23 +1,23 @@
 .header {
-    max-width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 0 auto 56px;
+  max-width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto 56px;
 }
 
 @media screen and (max-width: 1100px){
 .header {
-    max-width: calc(100% - 96px);
+  max-width: calc(100% - 96px);
 }
 }
 @media screen and (max-width: 850px){
-    .header {
-    max-width: calc(100% - 48px);
-    }
+.header {
+  max-width: calc(100% - 48px);
+}
 }
 @media screen and (max-width: 550px){
-    .header {
-    min-width: 288px;
-    }
+.header {
+  min-width: 288px;
+}
 }

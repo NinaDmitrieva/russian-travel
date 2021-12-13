@@ -1,4 +1,9 @@
 .header__links {
-display: flex;
-justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.header__links:hover {
+  opacity: 0.5;
 }
