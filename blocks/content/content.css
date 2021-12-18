@@ -7,7 +7,7 @@
  grid-row-gap: 88px;
 }
 }
-@media screen and (max-width: 550px){
+@media screen and (max-width: 721px){
 .content {
   grid-row-gap: 64px;
 }

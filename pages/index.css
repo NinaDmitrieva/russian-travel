@@ -4,12 +4,12 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/content/content.css);
 
-/* шапка*/
+/* header*/
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__logo/header__logo.css);
-@import url(../blocks/header/__links/_one/header__lang-link_one.css);
+@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
 
 /* блок lead*/
@@ -24,7 +24,7 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__title/intro__title.css);
-@import url(../blocks/intro/__one/intro__one.css);
+@import url(../blocks/intro/__number/intro__number.css);
 
 
 /* блок photo-grid*/

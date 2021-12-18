@@ -15,6 +15,6 @@
 
 **ссылка на ресурс*
 
-* [Ссылка на макет в GitHab](https://github.com/NinaDmitrieva/russian-travel)
+* [Ссылка на макет в GitHab](https://ninadmitrieva.github.io/russian-travel/)
 
 
