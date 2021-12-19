@@ -1,25 +1,26 @@
 .header__lang-link {
-  color: #fff;
-  text-decoration: none;
-  font-size: 24px;
-  line-height: 28px;
-  font-weight: 400;
-  padding-right: 18px;
-  margin: 18px 0 6px;
-  transition: opacity 0.5s ease-in-out;
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 400;
+    padding-right: 18px;
+    margin: 18px 0 6px;
+    transition: opacity 0.5s ease-in-out;
+    list-style-type: none;
 }
 
 .header__lang-link:hover {
-  opacity: 0.5;
+    opacity: 0.5;
 }
 
 .header__lang-link:nth-child(2) {
-  padding-right: 0;
+    padding-right: 0;
 }
 
 @media screen and (max-width: 721px) {
-.header__lang-link {
-  font-size: 18px;
-  line-height: 20px;
-}
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+    }
 }
