@@ -1,9 +1,9 @@
 .place__paragraphs {
-    padding: 0;
+  padding: 0;
 }
 
 @media (max-width: 721px) {
-    .place__paragraphs {
-        margin: 0 16px 0;
-    }
+.place__paragraphs {
+  margin: 0 16px 0;
+  }
 }
