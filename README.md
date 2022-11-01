@@ -13,8 +13,8 @@
 
 * Файловая структура выполнена по методу БЭМ (Nested)
 
-**ссылка на ресурс*
 
-* [Ссылка на макет в GitHab](https://ninadmitrieva.github.io/russian-travel/)
+
+* [Ссылка на проект](https://ninadmitrieva.github.io/russian-travel/)
 
 
